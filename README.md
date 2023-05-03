@@ -9,7 +9,7 @@
 
 <br/><hr/>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy jorge Toso</h1>
-<h4 align="center">Me apacionan las computadoras y el desarrollo de aplicaciones y paginas web, soy desarrollador full stack y estoy buscando colaborar con un gran equipo donde exista un buen ambiente de trabajo</h4>
+<h4 align="center">Me apasionan las computadoras y el desarrollo de aplicaciones y páginas web, soy desarrollador full stack y estoy buscando colaborar con un gran equipo donde exista un buen ambiente de trabajo</h4>
 <h4 align="center">Tengo mucha experiencia trabajando en equipo, he sido supervisor de operaciones por mas de 17 años, conozco como gestionar recursos para lograr resultados, soy creativo y detallista.</h4>
 </div>
 
