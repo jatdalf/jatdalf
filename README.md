@@ -3,14 +3,14 @@
   
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm jorge Toso</h1>
 <div>
-<h4 align="center">I am passionate about computers and the development of applications and web pages, I am a full stack developer and I am looking to collaborate with a great team where there is a good work environment</h4>
+<h4 align="center">I am passionate about computers and the development of applications and web pages, I am a full stack developer and I seek to be part of a great team in which I can collaborate with my skills </h4>
 <h4 align="center">I have a lot of experience working in a team, I have been an operations supervisor for more than 17 years, I know how to manage resources to achieve results, I am creative and detail-oriented.</h4>
 </div>
 
 <br/><hr/>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy jorge Toso</h1>
 <h4 align="center">Me apasionan las computadoras y el desarrollo de aplicaciones y páginas web, soy desarrollador full stack y estoy buscando colaborar con un gran equipo donde exista un buen ambiente de trabajo</h4>
-<h4 align="center">Tengo mucha experiencia trabajando en equipo, he sido supervisor de operaciones por mas de 17 años, conozco como gestionar recursos para lograr resultados, soy creativo y detallista.</h4>
+<h4 align="center">Tengo mucha experiencia trabajando en equipo, he sido supervisor de operaciones por más de 17 años, conozco como gestionar recursos para lograr resultados, soy creativo y detallista.</h4>
 </div>
 
 
