@@ -39,8 +39,12 @@
 
 <a href="https://github.com/jatdalf/">
   <img src="https://github-readme-stats.vercel.app/api?username=jatdalf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="495"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatdalf&theme=highcontrast&hide_border=false" width="495"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatdalf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="495"/><br/
+  <img
+  src="https://streak-stats.demolab.com/?user=jatdalf&theme=highcontrast&hide_border=false"
+  alt="GitHub streak de Jorge Toso"
+  width="495"
+/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatdalf&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="495"/><br>/
 </a>
 	
 ### 🔝 Top Contributed Repo
